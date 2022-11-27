@@ -1,0 +1,6 @@
+image: tngo04/trybuild:latest
+project: tngo04/trybuild
+target: normalize
+
+cmds:
+  - cmd: /normalize
